@@ -1,0 +1,44 @@
+{
+	id: "042976cc-db8d-47b7-8860-d428f5aacff3"
+	type: "party"
+	owner: "6170dc5c-b4c1-4f10-b687-af113f2983d7"
+	ranks: {
+		504de18f-0bb3-4f23-8ec7-39d4910b18fa: "member"
+		6170dc5c-b4c1-4f10-b687-af113f2983d7: "owner"
+		80b495ce-60bd-44cf-bdb3-f814d956440c: "member"
+		4015c1ce-8d50-3993-822d-aae738846de0: "member"
+		12451b76-f7b3-42f7-ae1b-ad3ec08ed456: "member"
+	}
+	properties: {
+		"ftbteams:display_name": "OTS"
+		"ftbteams:description": ""
+		"ftbteams:color": "#5970FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:allow_pvp": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1703901797523L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"dode2511\"}]}" }
+		{ from: "6170dc5c-b4c1-4f10-b687-af113f2983d7", date: 1703901806040L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"uJovi\"}]}" }
+		{ from: "6170dc5c-b4c1-4f10-b687-af113f2983d7", date: 1703901811081L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"uErin\"}]}" }
+		{ from: "6170dc5c-b4c1-4f10-b687-af113f2983d7", date: 1703901816558L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Luc4o9\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1703901816648L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"uErin\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1703901864186L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"uJovi\"}]}" }
+		{ from: "6170dc5c-b4c1-4f10-b687-af113f2983d7", date: 1703903405051L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Luc4o9\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1703903408246L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Luc4o9\"}]}" }
+		{ from: "6170dc5c-b4c1-4f10-b687-af113f2983d7", date: 1703912551675L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Blackoutz\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1703912560665L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Blackoutz\"}]}" }
+	]
+	extra: { }
+}

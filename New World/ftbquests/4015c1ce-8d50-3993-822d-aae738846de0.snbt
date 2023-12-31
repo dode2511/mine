@@ -1,0 +1,23 @@
+{
+	version: 1
+	uuid: "4015c1ce8d503993822daae738846de0"
+	name: "Blackoutz#4015c1ce"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		159872B988A173AA: 1
+	}
+	started: {
+		1B175B2C955D8395: 1703912444340L
+		159872B988A173AA: 1703912444340L
+		731686C758AD9A99: 1703912444340L
+		0000000000000001: 1703912444340L
+	}
+	completed: {
+		159872B988A173AA: 1703912444344L
+		731686C758AD9A99: 1703912444344L
+		072FA02152FBC5B1: 1703912444602L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}
